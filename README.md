@@ -8,12 +8,16 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/tic-tac-toe.git
+
 cd tic-tac-toe
+
 Install dependencies (if any specified in requirements.txt).
 Run the Game:
 
 bash
+
 Copy code
+
 python runner.py
 Follow the on-screen prompts to play against the AI.
 
